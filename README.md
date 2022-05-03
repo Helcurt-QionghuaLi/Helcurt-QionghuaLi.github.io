@@ -1,12 +1,1 @@
-# Getting Starting with Vanilla Template
-
-- `index.html` is where you include the D3 library, your D3 code, and any HTML 
-- `scatterplot.js` is an example of a visualization you would create. It writes to the `#scatterplot` SVG element.
-- `cars.csv` is the data we're loading. It could be a JSON file or an API endpoint. 
-
-## Running your code 
-
-Spin up a simple python server (depending on python version) to host your code: 
-
-- `python -m SimpleHTTPServer 4000`
-- `python3 -m http.server 4000`
+The goal of the project is to show the correlation between sugar intake and obesity rate increase. The visualization shows the average number of sugar-sweetened beverage consumed for different groups per week in PA as well as the obesity rate. I learned D3 coding skills during working on this project especially how to create a bar chart.
